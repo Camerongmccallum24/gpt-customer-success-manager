@@ -1,7 +1,7 @@
 # GPT-Powered Customer Success Manager
 
 ## Overview
-The **GPT-Powered Customer Success Manager** is an AI-driven tool designed to provide customer success teams with data-driven insights, predictive analytics, and collaborative features to help reduce churn, increase customer satisfaction, and foster cross-functional alignment. By integrating key metrics and offering proactive suggestions, this tool leverages GPT technology to support customer success initiatives across industries.
+The **GPT-Powered Customer Success Manager** is an AI-driven tool designed to provide customer success teams with **data-driven insights**, **predictive analytics**, and collaborative features to help **reduce churn**, increase **customer satisfaction**, and foster **cross-functional alignment**. By integrating key metrics and offering proactive suggestions, this tool leverages GPT technology to support customer success initiatives across industries.
 
 ## Key Features
 - **Dynamic Learning**: Adapts based on user feedback and past successful engagements, offering more personalized suggestions over time.
@@ -17,13 +17,10 @@ The **GPT-Powered Customer Success Manager** is an AI-driven tool designed to pr
 
 ## Setup Instructions
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/Camerongmccallum24/gpt-customer-success-manager
+   (https://github.com/Camerongmccallum24/gpt-customer-success-manager)
 2. Navigate to the project directory:
-   '''bash
-  cd gpt-customer-success-manager
-3. Install the required dependencies:
-   '''bash
+   cd gpt-customer-success-manager
+4. Install the required dependencies:
    pip install -r requirements.txt
 
 ## Usage
@@ -34,7 +31,7 @@ Once the tool is set up, you can:
       Schedule custom reports and download insights in **CSV** or **PDF** formats.
 
 ## Project Structure
-'''bash
+
 /guides
   - Dynamic_Learning_Implementation_Guide.txt
   - Enhanced_Integrations_Implementation_Guide.txt
@@ -44,23 +41,27 @@ Once the tool is set up, you can:
   - Interactive_Feedback_Implementation_Guide.txt
   - Deeper_Industry_Customization_Implementation_Guide.txt
   - Cross_Functional_Collaboration_Implementation_Guide.txt
+
 /src
   - gpt_model.py  # GPT implementation for customer success insights
   - integrations.py  # API integrations for CRM platforms
   - analytics.py  # Predictive analytics and data processing
+
 /outputs
   - reports.csv  # Example of generated reports
+
 README.md
+
 requirements.txt
 
 ## Custom Reports
 The tool provides customizable reports based on customer success metrics, including:
 
-**Customer Lifetime Value (CLV)**
-**Net Promoter Score (NPS)**
-**Customer Health Score**
-**Churn Rate**
-**Monthly Recurring Revenue (MRR)**
+- **Customer Lifetime Value (CLV)**
+- **Net Promoter Score (NPS)**
+- **Customer Health Score**
+- **Churn Rate**
+- **Monthly Recurring Revenue (MRR)**
 
 Reports can be exported in **CSV** or **PDF** formats, and users can schedule automatic report generation at weekly or monthly intervals.
 
@@ -74,21 +75,17 @@ We welcome contributions to the GPT-Powered Customer Success Manager project. Pl
  5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Camerongmccallum24/gpt-customer-success-manager/LICENSE) file for details.
 
 ## Guides & Documentation
 The following implementation guides are included:
 
-   **Dynamic Learning Implementation Guide**
-   **Enhanced Integrations Implementation Guide**
-   **Predictive Analytics Implementation Guide**
-   **Custom Reports Implementation Guide**
-   **Simplified Setup Implementation Guide**
-   **Interactive Feedback Implementation Guide**
-   **Deeper Industry Customization Implementation Guide**
-   **Cross-Functional Collaboration Implementation Guide**
+   - **Dynamic Learning Implementation Guide**
+   - **Enhanced Integrations Implementation Guide**
+   - **Predictive Analytics Implementation Guide**
+   - **Custom Reports Implementation Guide**
+   - **Simplified Setup Implementation Guide**
+   - **Interactive Feedback Implementation Guide**
+   - **Deeper Industry Customization Implementation Guide**
+   - **Cross-Functional Collaboration Implementation Guide**
 
-### Steps to Use:
-1. Copy this entire formatted content.
-2. Paste it into your `README.md` file on your GitHub repository.
-3. Modify any details (like URLs or specific instructions) to suit your project.
